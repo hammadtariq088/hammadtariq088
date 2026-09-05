@@ -5,7 +5,7 @@ Software Engineer | Full-Stack Developer | React.js • Next.js • Node.js • 
 </h3>
 
 <p align="center">
-I build scalable, user-focused web applications and enjoy turning complex requirements into clean, maintainable software solutions.
+I build scalable, user-focused web applications and enjoy turning requirements into clean, maintainable software solutions.
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@ I build scalable, user-focused web applications and enjoy turning complex requir
 - 🎨 Building responsive interfaces using **Tailwind CSS, Bootstrap & modern UI libraries**
 - 🤖 Exploring **AI-powered applications, RAG systems and AI-assisted development**
 - 🧠 Interested in **scalable architecture, clean code and problem solving**
-- 🌱 Currently improving my skills in **Next.js, Node.js, NestJS, PostgreSQL & AI integrations**
 - 💬 Ask me about **React, Next.js, MERN/PERN Stack and Full-Stack Development**
 - 📫 Reach me at **hammadt666@gmail.com**
 - 📍 Based in **Pakistan**
@@ -55,12 +54,14 @@ Tools & Technologies:
 
 🚀 What I Work With
 
-Frontend        React.js • Next.js • React Native • TypeScript
-Backend         Node.js • Express.js • NestJS • REST APIs
-Databases       PostgreSQL • MongoDB • MySQL • Supabase
-UI              Tailwind CSS • Bootstrap • Responsive Design
-Development     Git • GitHub • Docker • Postman
-AI              RAG Applications • AI Integrations • AI-Assisted Development
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React.js • Next.js • React Native • TypeScript |
+| **Backend** | Node.js • Express.js • NestJS • REST APIs |
+| **Databases** | PostgreSQL • MongoDB • MySQL • Supabase |
+| **UI / Styling** | Tailwind CSS • Bootstrap • Responsive Design |
+| **Development** | Git • GitHub • Docker • Postman |
+| **AI** | RAG Applications • AI Integrations • AI-Assisted Development |
 
 🤝 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/hammadtariq088/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Hammad%20Tariq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:hammadt666@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
