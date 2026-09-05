@@ -66,5 +66,5 @@ AI              RAG Applications • AI Integrations • AI-Assisted Development
 <p align="left"> <a href="https://www.linkedin.com/in/hammadtariq088/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Hammad%20Tariq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:hammadt666@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 📊 GitHub Stats
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammadtariq088&show_icons=true&theme=github_dark&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq088&theme=github-dark-blue&hide_border=true" /> </p>
+<p align="center"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq088&theme=github-dark-blue&hide_border=true" /> </p>
 <p align="center"> <i>Building reliable software, learning continuously, and solving real-world problems with technology.</i> </p>
